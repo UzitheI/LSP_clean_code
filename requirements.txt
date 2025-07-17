@@ -1,0 +1,1 @@
+# This todo app uses only Python standard library but added this for proper structure

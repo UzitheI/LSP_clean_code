@@ -17,14 +17,68 @@ A stunning command-line Todo application written in **Python**, meticulously cra
 
 ---
 
-## 🎨 Beautiful Interface
+## 🎨 Visual Interface
 
-The app features:
-- **Colorized output** with different colors for different states
-- **Unicode symbols** for visual appeal (✅ ❌ 📋 🗑️ 📭 ➕ 📝)
-- **Organized display** with pending and completed tasks separated
-- **Task summaries** with counts and statistics
-- **Timestamps** showing when tasks were created
+### 📸 Screenshots
+
+<details>
+<summary><strong>🔧 Command Help & Usage</strong></summary>
+
+![Help Command](assets/image.png)
+*Complete command reference with examples*
+
+</details>
+
+<details>
+<summary><strong>➕ Adding Tasks</strong></summary>
+
+![Adding Tasks](assets/image-1.png)
+*Simple task creation with confirmation feedback*
+
+</details>
+
+<details>
+<summary><strong>✅ Task Completion</strong></summary>
+
+![Task Completion](assets/image-2.png)
+*Mark tasks as complete with visual status updates*
+
+</details>
+
+<details>
+<summary><strong>🧹 Clearing Completed Tasks</strong></summary>
+
+![Clear Command](assets/image-3.png)
+*Bulk removal of completed tasks*
+
+</details>
+
+<details>
+<summary><strong>❌ Error Handling</strong></summary>
+
+![Error Handling](assets/image-4.png)
+*Graceful error messages for invalid input*
+
+</details>
+
+<details>
+<summary><strong>🗑️ Task Removal</strong></summary>
+
+![Task Removal](assets/image-5.png)
+*Individual task deletion with confirmation*
+
+</details>
+
+### ✨ Interface Features
+
+| Feature | Description |
+|---------|-------------|
+| 🌈 **Colorized Output** | Different colors for pending (yellow), completed (green), and error states (red) |
+| 🎯 **Unicode Symbols** | Beautiful symbols for visual appeal: ✅ ❌ 📋 🗑️ 📭 ⏳ ☑️ 📝 |
+| 📊 **Organized Display** | Pending and completed tasks are clearly separated |
+| 📈 **Task Summaries** | Real-time counts showing total, completed, and pending tasks |
+| ⏰ **Timestamps** | Each task shows when it was created for better tracking |
+| 🚨 **Error Feedback** | Clear, helpful error messages guide users to correct usage |
 
 ---
 

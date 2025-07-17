@@ -16,9 +16,6 @@ A stunning command-line Todo application written in **Python**, meticulously cra
 - 📊 **Task summary** - Shows total, completed, and pending task counts
 
 ---
-
-## 🎨 Visual Interface
-
 ### 📸 Screenshots
 
 <details>

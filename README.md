@@ -126,7 +126,6 @@ TodoApp/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/UzitheI/cli-todo-clean.git
-   cd cli-todo-clean
    ```
 
 2. **Run the application:**

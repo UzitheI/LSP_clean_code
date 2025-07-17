@@ -1,4 +1,4 @@
-# 📝 Beautiful CLI Todo App
+# Uzi's CLI Todo App
 
 A stunning command-line Todo application written in **Python**, meticulously crafted following **Clean Code Principles**. Features beautiful terminal output with colors, Unicode symbols, and an intuitive interface. This is done as a part of Leapfrog Partnership Program.
 
